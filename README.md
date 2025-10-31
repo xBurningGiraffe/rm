@@ -1,6 +1,6 @@
 # rm — A Minimal Cross-Platform `rm` Clone for Windows and .NET
 
-A lightweight C# implementation of the Unix `rm` command for Windows, built to behave consistently across platforms.  
+The "rm" alias for use in Windows via PowerShell is nice, but I wanted to be able to use common flags like -r and -f. So I made this lightweight C# implementation of the Unix `rm` command for Windows, built to behave consistently across platforms.  
 It supports recursive deletion, force deletion, wildcard expansion, and standard POSIX-style flags (`-r`, `-f`, `-rf`, `--help`).
 
 This is **not a wrapper for PowerShell’s `Remove-Item`**, but a standalone executable designed for developers who prefer native Unix-style tools on Windows.
