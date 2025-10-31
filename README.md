@@ -27,4 +27,4 @@ This is **not a wrapper for PowerShell’s `Remove-Item`**, but a standalone exe
 
 ## ⚙️ Usage
 
-```powershell rm [OPTION]... FILE... ```
+```rm [OPTION]... FILE... ```
