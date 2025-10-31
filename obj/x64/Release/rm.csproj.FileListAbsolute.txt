@@ -1,0 +1,7 @@
+D:\Visual_Studio_Projects\rm\rm\bin\x64\Release\rm.exe.config
+D:\Visual_Studio_Projects\rm\rm\bin\x64\Release\rm.exe
+D:\Visual_Studio_Projects\rm\rm\bin\x64\Release\rm.pdb
+D:\Visual_Studio_Projects\rm\rm\obj\x64\Release\rm.csproj.AssemblyReference.cache
+D:\Visual_Studio_Projects\rm\rm\obj\x64\Release\rm.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_Projects\rm\rm\obj\x64\Release\rm.exe
+D:\Visual_Studio_Projects\rm\rm\obj\x64\Release\rm.pdb
