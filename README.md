@@ -21,8 +21,7 @@ This is **not a wrapper for PowerShell’s `Remove-Item`**, but a standalone exe
 ---
 
 ## Basic Install with pre-compiled binary (via PowerShell window with elevated privileges)
-- Add the following to your $PROFILE (removes existing PowerShell alias for rm):
-    - Remove-Item Alias:rm -Force
+- Add the following to your $PROFILE (removes existing PowerShell alias for rm): ```Remove-Item Alias:rm -Force```
 - Open a new elevated PowerShell window and run ```iwr -uri https://github.com/xBurningGiraffe/rm/releases/download/main/rm.exe -OutFile rm.exe ```
 - In a new PowerShell window, test it using ```rm -h``` to reveal the help menu
 
